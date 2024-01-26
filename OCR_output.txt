@@ -1,0 +1,21 @@
+What is Image Processing?
+
+Image processing is the manipulation of visual data either to achieve an aesthetic quality or to derive data from
+it, and support another task. However, when it comes to the application of this technology, the image
+processing helps to bridge the gap between how we see things and how devices digitally view things. It is quite
+obvious that our visual system does not see the world the way a computer or scanner does. Image processing
+helps to merge the two and remove some of the stark differences between them, so that devices move, interact,
+and see the way we do,
+
+Learn more about image processing
+Why is image processing important?
+
+Within the scientific community and manufacturing industry, image processing is at the helm of the technical
+revolution that is being called Industry 4.0. Along with the intemet, Industry 4.0 will help in bringing together
+real-time production and virtual data representation, making the process more fluid and flexible than ever
+before. Therefore, the future of image processing will lay the framework for new technologies and business
+models. Assembly lines these days are being automated at a faster rate than ever before, in a bid to stay
+relevant and competitive. Also, industries are now very careful with regards to energy consumption, recycling,
+and scrap management, as they want to minimize resource wastage. In such a setting, it is only natural that
+technologies such as image processing and NLP help with automation and quality control.
+
